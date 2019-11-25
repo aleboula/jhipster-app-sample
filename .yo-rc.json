@@ -1,0 +1,48 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterappsample",
+    "packageName": "com.vnext.jhipsterappsample",
+    "packageFolder": "com/vnext/jhipsterappsample",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling",
+      "cucumber",
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.5.1",
+    "jwtSecretKey": "OTYzZTE3NGJhZTM0NGE4YmFmZjJkZTgxYWNkNDczNGM2ZDg4MDYwZDhlZTQ2NzIxYWY4OTkwMzkwYjAxNWEyNjY4YTVlMTg3NDVhNTI5YzViNTc1ZWJmNjliMWRiYzE3OWEzYjVkYzNhNjJlYWRhYjVmYTEzM2Y2ZTUwMTUxYTI=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "aleboula",
+  "repository-name": "jhipster-app-sample"
+}
