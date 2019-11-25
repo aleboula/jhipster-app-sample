@@ -42,7 +42,7 @@ spring:
       indent-output: true
   data:
     mongodb:
-      uri: mongodb://localhost:27017
+      uri: mongodb://coachvirtuelmongo-dev:a7tmpOvL9v4gC8SnqLGCMNty6Nctsiog4FGtVffTkPlGHFnkOnWJcYTO1mU3E93Dr8pUEdfI8WsCZrA6u7GXLg==@coachvirtuelmongo-dev.documents.azure.com:10255/?ssl=true&replicaSet=globaldb
       database: jhipsterappsample
     elasticsearch:
       properties:
